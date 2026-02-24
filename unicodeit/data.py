@@ -4275,6 +4275,7 @@ COMBININGMARKS = [
     ('\\bar', '\u0305'),
     ('\\vec', '\u20D7'),
     ('\\hat', '\u0302'),
+    ('\\check', '\u030C'),
 ]
 
 SUBSUPERSCRIPTS = [
